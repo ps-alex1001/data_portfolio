@@ -1,21 +1,24 @@
 # Data portfolio
 
 ## Excel
+**Skills Featured**
+- Table Formatting, Sorting, and Filtering
+- Basic and Common Functions
+- Pivot tables
+- Data Visualization
+- Logic, Text, Search Functions
+- Data Preprocessing
+- Data Storytelling
 
-Project 1: Retail in Myanmar
-Showcase ability to use functions and formulas
+### Project 1: [Retail in Myanmar](https://docs.google.com/spreadsheets/d/12UNgCdrpFkfER7PiIX-UejMWkGW9Uyle4RK4sHoP4ng/edit?usp=sharing)
+**Task description**
 
-Project 2: More basic Functions
+Use basic functions and formulas to summarize the data using Excel.
 
-Project 3: Lettuce data set
+The dataset contains all the transactions logged in the year 2019 at R&S, a retail company based in Myanmar.
 
-**Big Project 1: Big Project**
-Table Formatting, Sorting, and Filtering
-Basic and Common Functions
-Pivot tables
-Data Visualization
-Logic, Text, Search Functions
-Data Preprocessing
-Data Storytelling
+### Project 2: [More basic Functions]()
 
-Maybe, showcase only big project 1, then 2 SQL projects
+### Project 3: [Lettuce data set]()
+
+### **Big Project 1: [Big Project]()**
