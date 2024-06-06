@@ -9,7 +9,7 @@ Project 2: More basic Functions
 
 Project 3: Lettuce data set
 
-Project 3: Big Project
+**Big Project 1: Big Project**
 Table Formatting, Sorting, and Filtering
 Basic and Common Functions
 Pivot tables
@@ -18,4 +18,4 @@ Logic, Text, Search Functions
 Data Preprocessing
 Data Storytelling
 
-Maybe, showcase only big project 3
+Maybe, showcase only big project 1, then 2 SQL projects
