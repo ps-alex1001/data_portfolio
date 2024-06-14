@@ -19,6 +19,4 @@ The dataset contains all the transactions logged in the year 2019 at R&S, a reta
 
 ### Project 2: [More basic Functions]()
 
-### Project 3: [Lettuce data set]()
-
 ### **Big Project 1: [Big Project]()**
