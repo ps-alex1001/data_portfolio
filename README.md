@@ -30,8 +30,8 @@ Data cleaning and exploration of dataset using Excel. Pivot tables and data visu
 - GROUP BY, JOINS
 - Timestamps, String Functions, Mathematical Operators
 
-### Project 3: [Data Cleaning]()
+### Project 3: [Data Cleaning](https://github.com/ps-alex1001/data_portfolio/blob/main/SQL%20project%201.pdf)
 The use of basic SQL functions for data cleaning were demonstrated here.
 
-### Project 4: [Analysis of Financing Data for New Investment]()
+### Project 4: [Analysis of Financing Data for New Investment](https://github.com/ps-alex1001/data_portfolio/blob/main/SQL%20project%202.pdf)
 Data cleaning and data exploration by calculating some statistics using SQL.
